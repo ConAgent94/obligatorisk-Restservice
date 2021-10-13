@@ -28,7 +28,7 @@ namespace RestserviceTests.Managers
         //[TestMethod()]
         //public void GetByIdTest()
         //{
-        //    Assert.Fail();
+        //    ItemsManager manager = new ItemsManager();
         //}
 
         //[TestMethod()]
