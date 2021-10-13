@@ -11,6 +11,7 @@ namespace Restservice.Models
         public string Name { get; set; }
         public int Itemquality { get; set; }
         public int Quantity { get; set; }
+        public int PropertyName { get; set; }
 
         public override string ToString()
         {
